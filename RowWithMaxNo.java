@@ -21,7 +21,7 @@ public class RowWithMaxNo {
             System.out.println(-1);
         } else {
             for (int i = 0; i < n; i++) {
-                System.out.println(arr[rowMax][j] + " ");
+                System.out.println(arr[rowMax][i] + " ");
             }
         }
     }
